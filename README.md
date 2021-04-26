@@ -1,2 +1,2 @@
 # exKaves
-Elixir key values store
+Elixir key values store implementation.
